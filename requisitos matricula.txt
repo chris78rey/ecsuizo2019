@@ -21,16 +21,16 @@ http://www.ecuatorianosuizo.edu.ec/index.php/actividades-academicas/96-matricula
 
 
 
-Los Educandos Antiguos deberán presentar la siguiente documentación:
-    Documento institucional "PAZ Y SALVO" con todos los casilleros llenos con el sello y/o firma de los respectivos departamentos
-    Carta compromiso Padres de familia – DCH (Departamento de convivencia humana).En el caso de no haberla entregado a la fecha.
-    Contrato de prestación de servicios. Disponible en el portal Web para su descarga.
-    Papeleta de Depósito del valor de la matrícula.
-    Compromiso Franciscano. Por favor dar lectura del mismo junto con el educando para que tomen conciencia de la responsabilidad que tienen frente a su formación integral.
-    Educandos de 2do. de bachillerato, presentar Certificado de haber realizado el Sacramento de Confirmación o documento que certifique que está en proceso de realizarlo.
-    Educandos de Séptimo Año presentar Certificado de haber realizado el Sacramento de Primera Comunión o documento que certifique que está en proceso de realizarlo.
-    Actualizar toda la información de padres de familia y educando, dentro del sistema (SICE).
-
+----Los Educandos Antiguos deberán presentar la siguiente documentación:
+----DOCUM-------Documento institucional "PAZ Y SALVO" con todos los casilleros llenos con el sello y/o firma de los respectivos departamentos
+----DOCUM-------Carta compromiso Padres de familia – DCH (Departamento de convivencia humana).En el caso de no haberla entregado a la fecha.
+----DOCUM-------****Contrato de prestación de servicios. Disponible en el portal Web para su descarga.
+----DOCUM-------Papeleta de Depósito del valor de la matrícula.
+----DOCUM-------Compromiso Franciscano. Por favor dar lectura del mismo junto con el educando para que tomen conciencia de la responsabilidad que tienen frente a su formación integral.
+----DOCUM-------Educandos de 2do. de bachillerato, presentar Certificado de haber realizado el Sacramento de Confirmación o documento que certifique que está en proceso de realizarlo.
+----DOCUM-------Educandos de Séptimo Año presentar Certificado de haber realizado el Sacramento de Primera Comunión o documento que certifique que está en proceso de realizarlo.
+----DOCUM-------Actualizar toda la información de padres de familia y educando, dentro del sistema (SICE).
+----DOCUM-------
 
 
 
@@ -71,9 +71,12 @@ SICE-------------------------
 SICE-------------------------
 SICE-------------------------http://ecuatorianosuizo.edu.ec/index.php/servicios/sistemas/sistema-notas
 SICE-------------------------
-SICE-------------------------
-
-
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
+SICE-------------------------http://ueesuizo.dyndns.org/pass.aspx?cad1=6144524E05764A505740461E1214160A15120A140A00150602435259252109146C646A0F66445144494C441E4746464D41471F5157544B175F145C110D54302156565140574118656512131311171C111413106464
 
 Requisitos:
     Llenar la ficha de Inscripción en la Pág. Web, Imprimir formulario y pegar la fotografía del estudiante tamaño carnet.
