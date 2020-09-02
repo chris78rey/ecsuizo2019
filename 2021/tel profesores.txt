@@ -1,0 +1,77 @@
+DATOS INFORMATIVOS
+PERSONAL DOCENTE Y ADMINISTRATIVO (TELÉFONOS Y CORREO ELECTRÓNICO)
+Nº	NOMBRES Y APELLIDOS	ÁREA/ GRADO/ curso	NÚMERO DE CELULAR	CORREO ELECTRÓNICO
+1	Paola Monteros	INICIAL II	0984309778	paoly2608@gmail.com 
+2	Stefany Becerra	PRIMERO A	0984068382	stefanyma_11@hotmail.com 
+3	Gabriela López	PRIMERO B	0993711336	gaby_ferlv1985@hotmail.com 
+4	Natalia Montero	PRIMERO C	0998347205	nataliamontero77@yahoo.com 
+5	Lilian Andrade	2DO A	0987352585	lily_ap@hotmail.com
+6	Ines Muriel	2DO B	0999941881	ines.muriel@yahoo.com
+7	Carmen Padilla	2DO C	0984859375	carmenalejandra80@hotmail.com
+8	Adriana Lugo	3RO A	0967553263	adrianavanessalugo@gmail.com
+9	Andrea Tapia	3RO B	0984934092	andreytatapia8@gmail.com
+10	Maria Elena Collaguazo	3RO C	0985193664	mariaelena_cgz@hotmail.com
+11	Sandra Toapanta	4TO A	0996747298	sandra_elidu@hotmail.com
+12	Rosita Diaz	4TO B	0994293031	rositadiazpazybien2608@yahoo.com
+13	Silvia Cedillo	4TO C	0983484059	sjcedil_4@yahoo.com
+14	BethiCarlosama Rosero	5TO “A”	0983351790	carlosama.bethi@yahoo.com
+15	Mónica  López Almeida	5TO “B”	0991698171	monik24072009@hotmall.com 
+16	Hugo Villarreal	5TO “C”	0984684207	Juniorvillarreal5@hotmall.com
+17	Paulina Carrillo	6TO “A”	0984130492	paulicarrillo3@gmail.com
+18	Myrian Quintana	6TO “B”	0983495464	miryquinta@hotmail.es
+19	Nancy Simbaña Díaz	7MO “A”	0967638937	nancytapiscis77@gmail.com
+20	Verónica Hernández	7MO “B”	0984959645	verohernandez46@hotmail.com
+21	Rocío Pinto	7MO “C”	0962806864	rociopinto1708@gmail.com
+22	Abel Aguas	MATEMÁTICA	0984778442	eaaz69@hotmail.es
+23	Paola Duque	MATEMÁTICA	0979300598	paopaoduque20@gmail.com
+24	Pablo Landeta	MATEMÁTICA	0983700164	pabloland74@hotmail.com
+25	Daniel León	MATEMÁTICA	0996900022	danielin_isi@yahoo.com
+26	Alí Saeidy	MATEMÁTICA	0984590821	Asaeidy2207@yahoo.com
+27	Sandra Giler	MATEMÁTICA	0986893464	sgilerm@hotmail.com
+28	Virna Vargas	C. NATURALES	0987328736	virnaliz_vargas@yahoo.es
+29	Vilma Guerrón	C. NATURALES	0986332256	vdrg30@yahoo.es
+30	Patricio Arellano	C. NATURALES	0984619594	pgarellano@hotmail.com
+31	Augusto Ponce	C. NATURALES	0967461136	augusto-ponce@hotmail.com
+32	Mónica Zhañay 	LENGUA Y L.	0962877122	mou0858@gmail.com
+33	Galo Andrade	LENGUA Y L.	0984609773	galmaster222@gmail.com
+34	María de Lourdes Chamorro	LENGUA Y L.	0986009459	lenguayliteraturabs.2019@gmail.com 
+35	Verónica Pule	LENGUA Y L.	0998587883	veropule7@gmail.com 
+36	Rocio Almeida	CIENCIAS SOCIALES	0968893896	almeidarous@gmail.com
+37	Raúl Castro	CIENCIAS SOCIALES	0984556273	 raulkass_7@hotmail.com 
+38	Humberto Jacome	CIENCIAS SOCIALES	0985343058	amigote.15@hotmail.com 
+39	Jonnathan Carrillo	CIENCIAS SOCIALES	0995113742	jonnathan1213@hotmail.com 
+40	Rouskaya Benalcazar 	L. EXTRANJERA	0995397633	jrouskaya@yahoo.com
+41	Marcelo Angulo Cárdenas	L. EXTRANJERA	0998883245	m_angulo25nov@hotmail.com 
+42	Priscila Del Carmen Ñaupari Tipán	L. EXTRANJERA	0991321990	prisnaupa@hotmail.com 
+43	Amr Abdullah	L. EXTRANJERA	0992500114	amr.pun1948@gmail.com
+44	claudia defas	L. EXTRANJERA	0994572119	claudiadefas@yahoo.it
+45	Edison Castro	L. EXTRANJERA	0999940937	eddykass84@hotmail.com
+46	javier alfredo castañel moromencaho	L. EXTRANJERA	0958783837	javiercastanel@gmail.com
+47	Tania Herrera	ED. FÍSICA	0984595492	tania_abril25@hotmail.com
+48	Dorys Basurto	ED. FÍSICA	0959864139	dorissicaria@hotmail.com 
+49	William Boada	ED. FÍSICA	0961357678	williamboada4@gmail.com
+50	Alex Cumbal	ED. FÍSICA	0979288585	alex.cumbal.valencia@hotmail.com  
+51	Diego Paredes	ED. C. ARTÍSTICA	0999966008	dparedes1991@gmail.com
+52	Miguel Núñez	ED. C. ARTÍSTICA	0984052928	micknune28@hotmail.com
+53	Fernando Acosta	ED. C. ARTÍSTICA	0985893101	eliz191180@gmail.com
+54	Elizabeth Vasco	ED. C. ARTÍSTICA	0958997088	worshipproducciones@hotmail.com
+55	Maritza Melenderes	ED. RELIGIOSA E.	0999217232	marimelfmi@gmail.com
+56	Yola Melendrez	ED. RELIGIOSA E.	0967181001	yolimet41@hotmail.com
+57	Alexandra Alulema	ED. RELIGIOSA E.	0988808261	paixetbienfmi99@gmail.com,
+58	Elsa Oyana	ED. RELIGIOSA E.	0983462529	elsaoyana@mariainmaculada.ed.cr
+59	Jesús Dalinda	ED. RELIGIOSA E.	0995503732	jesusdalinda92@yahoo.com
+60	María Bonilla	ED. RELIGIOSA E.	0984029584	mystudents2028.19@gmail.com
+61	Katherine Pinto 	DECE	0998554344	k-rito_chulis@hotmail.com
+62	Verónica Vaca 	DECE	0998719346	gabivero4@gmail.com
+63	Anita Carrasco 	DECE	0983006848	aniw55@gmail.com
+64	Betty Vargas 	DECE	0997554166	bettyvargas120276@hotmail.com
+65	Floralba Mera 	DECE	0991362022	doc_albita@gmail.com
+66	María del C. Tixi	DECE	0997969565	mariadelcarmentixi1982@gmail.com
+67	Jorge Taipe	DCH	0984764773	jorgeramiro78@hotmail.com
+68	Gabriela Pauta	DCH	0962792296	subinsp_uepes.primaria@hotmail.com
+70	Carlos Gavela	DCH	0998713216	uees.subinspector.basicasuperior@gmail.com
+71	Diana Jácome	COORD. ACADÉMICA	0983842572	coordinacionacademicauepes@hotmail.com
+72	Homero Michuy	VICERRECTOR	0987819271	vicerrectoradoecuatorianosuizo@gmail.com
+73	Hna. Nancy Peñafiel	RECTORA	0985927241	nancypr28@hotmail.com
+74	Silvana Rosero	SECRETARIA	0995275198	ecuatorianosuizo81@gmail.com
+75	Jenny Panamá	CONTADORA	0978978759	colecturia_esuizo@hotmail.com
